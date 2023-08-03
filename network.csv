@@ -1,0 +1,17 @@
+﻿ID,gene,pathway,Colleration
+1,BPTF,DNA binding,0.782
+2,CDKN2AIP,Nucleoplasm,0.7445
+3,CTCF,DNA binding,0.8743
+4,FBXW11,Cytosol,0.8005
+5,GEM,Chromosome organization,0.2686
+6,HDAC3,Chromatin organization ,0.8204
+7,HMGB1,DNA binding,0.864
+8,KDM1A,DNA binding,0.8406
+9,NFATC2,DNA binding,0.5693
+10,SMOX,Nucleoplasm,0.5605
+11,SNRNP200,Nucleoplasm,0.9045
+12,SRP54,Nucleoplasm,0.8101
+13,TFCP2L1,DNA binding,0.4761
+14,USF2,DNA binding,0.8574
+15,XRCC5,DNA binding,0.8223
+16,ZNF202,DNA binding,0.7955
